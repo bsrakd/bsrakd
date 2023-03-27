@@ -2,7 +2,7 @@
 &nbsp;
 
 
-I am founder of TOSPIC-BIO (Tools of Operating System Application in Biology) [https://github.com/TOSPIC-BIO](https://github.com/TOSPIC-BIO). This Github organization, which is still new, was established to develop algorithms and create new approaches related to biology
+I am founder of [TOSPIC-BIO](https://github.com/TOSPIC-BIO) (Tools of Operating System Application in Biology). This Github organization, which is still new, was established to develop algorithms and create new approaches related to biology
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
